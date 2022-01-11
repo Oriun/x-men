@@ -1,0 +1,27 @@
+{
+  "name": "@oriun/x-men",
+  "version": "1.0.6",
+  "main": "index.js",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "modules/clean.js",
+    "modules/element.js",
+    "modules/xml.js",
+    "Readme.md",
+    "LICENSE"
+  ],
+  "scripts":{
+    "bench": "node benchmark/index.js",
+    "test": "node test"
+  },
+  "description": "XML parser",
+  "keywords": [
+    "xml",
+    "parser",
+    "xml2js",
+    "xml2json"
+  ]
+}

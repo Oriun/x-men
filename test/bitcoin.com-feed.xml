@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:bnmedia="https://news.bitcoin.com/">
+    <channel>
+        <title>Bitcoin News</title>
+        <atom:link href="https://news.bitcoin.com/feed/" rel="self" type="application/rss+xml" />
+        <link>https://news.bitcoin.com</link>
+        <description>Daily Bitcoin News</description>
+        <lastBuildDate>Fri, 24 Dec 2021 01:14:08 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+        <sy:updateFrequency>
+	1	</sy:updateFrequency>
+        <generator>https://wordpress.org/?v=5.6.4</generator>
+        <item>
+            <title>Ripple Achieves &#8216;Strongest Year Ever&#8217; Despite SEC Lawsuit Over XRP, Says CEO</title>
+            <link>https://news.bitcoin.com/ripple-strongest-year-ever-despite-sec-lawsuit-over-xrp/</link>
+            <dc:creator>
+                <![CDATA[Kevin Helms]]>
+            </dc:creator>
+            <pubDate>Fri, 24 Dec 2021 02:00:05 +0000</pubDate>
+            <category>
+                <![CDATA[Regulation]]>
+            </category>
+            <category>
+                <![CDATA[Brad Garlinghouse]]>
+            </category>
+            <category>
+                <![CDATA[Ripple]]>
+            </category>
+            <category>
+                <![CDATA[ripple performance]]>
+            </category>
+            <category>
+                <![CDATA[sec lawsuit]]>
+            </category>
+            <category>
+                <![CDATA[SEC vs Ripple]]>
+            </category>
+            <category>
+                <![CDATA[sec vs xrp]]>
+            </category>
+            <category>
+                <![CDATA[XRP]]>
+            </category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=501294&#038;preview=true&#038;preview_id=501294</guid>
+            <description>
+                <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/ripple.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ripple Achieves &#039;Strongest Year Ever&#039; Despite SEC Lawsuit Over XRP, Says CEO" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Ripple has achieved the &#x201C;strongest year ever&#x201D; despite the lawsuit over XRP by the U.S. Securities and Exchange Commission (SEC), according to CEO Brad Garlinghouse. &#x201C;Calling crypto the &#x2018;Wild West&#x2019; is a farce,&#x201D; he said, emphasizing that &#x201C;most are complying with financial regulators globally.&#x201D; Ripple Has Best Year Despite SEC&#x2019;s Lawsuit Over XRP Ripple CEO [&#8230;]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/ripple.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ripple Achieves &#039;Strongest Year Ever&#039; Despite SEC Lawsuit Over XRP, Says CEO" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>Ripple has achieved the &#x201C;strongest year ever&#x201D; despite the lawsuit over <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XRP" target="_blank">XRP</a> by the U.S. Securities and Exchange Commission (SEC), according to CEO Brad Garlinghouse. &#x201C;Calling crypto the &#x2018;Wild West&#x2019; is a farce,&#x201D; he said, emphasizing that &#x201C;most are complying with financial regulators globally.&#x201D;</strong></p><h2>Ripple Has Best Year Despite SEC&#x2019;s Lawsuit Over <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XRP" target="_blank">XRP</a></h2><p>Ripple CEO Brad Garlinghouse talked about his company&#x2019;s achievement and cryptocurrency regulation in a series of tweets Wednesday. He explained that despite the lawsuit over <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XRP" target="_blank">XRP</a>, Ripple had the &#x201C;strongest year ever.&#x201D;</p><p><img loading="lazy" class="size-full wp-image-501212 aligncenter" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/garlinghouse.jpg" alt="" width="587" height="260"></p><p>The U.S. Securities and Exchange Commission (SEC) filed a lawsuit against him, Ripple Labs, and co-founder Chris Larsen a year ago. The securities watchdog alleged that <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XRP" target="_blank">XRP</a> should have been registered as a security.</p><p>While insisting that the SEC&#x2019;s lawsuit against <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/XRP" target="_blank">XRP</a> &#x201C;is an attack on crypto in the US, not just Ripple,&#x201D; Garlinghouse detailed:</p><blockquote><p>2021 has been a watershed year for crypto. Acceptance and awareness of the opportunity to bring billions of people into the global financial community has never been so clear. It&#x2019;s been incredible to see a lot less &#x2018;maximalism&#x2019;, and many more builders joining the industry.</p></blockquote><p>The CEO proceeded to outline Ripple&#x2019;s progress over the year, such as <a href="https://news.bitcoin.com/ripple-sbi-launch-on-demand-liquidity-japan-xrp-surges/">launching</a> new On-Demand Liquidity (ODL) corridors and its central bank digital currency (CBDC) solution. &#x201C;All of this growth came from outside the US,&#x201D; he opined.</p><p>Garlinghouse then noted that SEC Chairman Gary Gensler &#x201C;has taken an aggressively anti-crypto approach and companies are already moving outside the US.&#x201D; He asserted that &#x201C;the SEC today won&#x2019;t answer questions about the legal status of <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a>, much less anything else,&#x201D; elaborating:</p><blockquote><p>Calling crypto the &#x2018;Wild West&#x2019; is a farce &#x2013; most are complying with financial regulators globally. This industry shouldn&#x2019;t be punished for asking for regulatory clarity & regulation that is consistently applied with a level playing field.</p></blockquote><p><em><strong>What do you think about Garlinghouse&#x2019;s comments? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/ripple.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[#Ripple has achieved the "strongest year ever" despite the lawsuit over #XRP by the SEC. #cryptocurrency]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA["This industry shouldn’t be punished for asking for regulatory clarity & regulation that is consistently applied with a level playing field." #cryptocurrency #ripple #XRP]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Microstrategy CEO Foresees Bitcoin&#8217;s Price Reaching $6 Million</title>
+    <link>https://news.bitcoin.com/microstrategy-ceo-bitcoins-price-6-million/</link>
+    <dc:creator>
+        <![CDATA[Kevin Helms]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 23:30:49 +0000</pubDate>
+    <category>
+        <![CDATA[Markets and Prices]]>
+    </category>
+    <category>
+        <![CDATA[bitcoin forecast]]>
+    </category>
+    <category>
+        <![CDATA[bitcoin prediction]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin Price]]>
+    </category>
+    <category>
+        <![CDATA[bitcoin price $6 million]]>
+    </category>
+    <category>
+        <![CDATA[bitcoin price $600K]]>
+    </category>
+    <category>
+        <![CDATA[bitcoin price forecast]]>
+    </category>
+    <category>
+        <![CDATA[michael saylor]]>
+    </category>
+    <category>
+        <![CDATA[michael saylor bitcoin]]>
+    </category>
+    <category>
+        <![CDATA[microstrategy]]>
+    </category>
+    <category>
+        <![CDATA[microstrategy bitcoin]]>
+    </category>
+    <category>
+        <![CDATA[price of bitcoin]]>
+    </category>
+    <category>
+        <![CDATA[price prediction]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501305&#038;preview=true&#038;preview_id=501305</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/microstrategy-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Microstrategy CEO Foresees Bitcoin&#039;s Price Reaching $6 Million" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The CEO of Microstrategy expects the price of bitcoin to reach $6 million, noting that it is &#x201C;unstoppable&#x201D; and will replace gold. The executive personally owns 17,732 bitcoins while his company is hodling 122,478 bitcoins. Microstrategy&#x2019;s CEO Expects Bitcoin to Hit $6 Million Microstrategy CEO Michael Saylor talked about his bitcoin strategy and BTC price [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/microstrategy-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Microstrategy CEO Foresees Bitcoin&#039;s Price Reaching $6 Million" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The CEO of Microstrategy expects the price of bitcoin to reach $6 million, noting that it is &#x201C;unstoppable&#x201D; and will replace gold. The executive</strong><strong> personally owns 17,732 bitcoins while his company is hodling 122,478 bitcoins.</strong></p><h2>Microstrategy&#x2019;s CEO Expects Bitcoin to Hit $6 Million</h2><p>Microstrategy CEO Michael Saylor talked about his bitcoin strategy and <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> price prediction in a recent interview with the Information, published this week.</p><p>Saylor revealed that he personally owns at least 17,732 bitcoins, which is the <a href="https://news.bitcoin.com/microstrategy-ceo-million-bitcoin-btc-profit/">same amount</a> he disclosed back in October last year. At the current<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> price, his bitcoin stash is worth almost $858 million.</p><p>The Microstrategy executive never sold any of his bitcoins and does not believe they should ever be sold. Furthermore, the Information reported:</p><blockquote><p>Saylor foresees bitcoin hitting $600,000 a coin, and eventually $6 million.</p></blockquote><p>Meanwhile, Microstrategy has <a href="https://news.bitcoin.com/microstrategy-buys-more-bitcoin-holds-122478-btc-ceo-bitcoin-taking-golds-place/">amassed</a> 122,478<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>, worth almost $6 billion at the current price. The coins were acquired at an average purchase price of $29,861 and for the cost basis of $3.7 billion, according to the company&#x2019;s &#x201C;Investor Day&#x201D; presentation, published last week.</p><p>Microstrategy described itself as &#x201C;the largest publicly traded corporate holder of bitcoin in the world and the first public company to adopt bitcoin as primary treasury reserve asset.&#x201D; Its corporate strategy is to &#x201C;Acquire and hold bitcoin long-term&#x201D; and &#x201C;purchase bitcoin through use of excess cash flows, and debt and equity transactions.&#x201D;</p><p>In November, Saylor said that bitcoin was &#x201C;unstoppable&#x201D; and will &#x201C;emerge as a <a href="https://news.bitcoin.com/microstrategy-ceo-bitcoin-100-trillion-asset-class-btc-grow-100x/">$100 trillion asset class</a>.&#x201D; The CEO has repeatedly said that<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> will replace gold. He said early this month: &#x201C;Once upon a time, gold was the most desirable store of value. Now bitcoin is<a href="https://news.bitcoin.com/microstrategy-buys-more-bitcoin-holds-122478-btc-ceo-bitcoin-taking-golds-place/">taking its place</a>.&#x201D;</p><p><em><strong>What do you think about Michael Saylor&#x2019;s bitcoin price prediction? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/microstrategy-1.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[The CEO of Microstrategy foresees the price of #bitcoin reaching $6 million. #cryptocurrency]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA["Saylor foresees #bitcoin hitting $600,000 a coin, and eventually $6 million." #cryptocurrency]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Accounting Firm PWC&#8217;s Hong Kong Branch Purchases Land in The Sandbox Metaverse</title>
+    <link>https://news.bitcoin.com/accounting-firm-pwcs-hong-kong-branch-purchases-land-in-the-sandbox-metaverse/</link>
+    <dc:creator>
+        <![CDATA[Jamie Redman]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 21:00:30 +0000</pubDate>
+    <category>
+        <![CDATA[Blockchain]]>
+    </category>
+    <category>
+        <![CDATA[Atari]]>
+    </category>
+    <category>
+        <![CDATA[Big Four]]>
+    </category>
+    <category>
+        <![CDATA[Big Four accounting firm]]>
+    </category>
+    <category>
+        <![CDATA[Land]]>
+    </category>
+    <category>
+        <![CDATA[Land Purchase]]>
+    </category>
+    <category>
+        <![CDATA[Metaverse]]>
+    </category>
+    <category>
+        <![CDATA[Native Token]]>
+    </category>
+    <category>
+        <![CDATA[nft]]>
+    </category>
+    <category>
+        <![CDATA[NFTs]]>
+    </category>
+    <category>
+        <![CDATA[Non-fungible Token]]>
+    </category>
+    <category>
+        <![CDATA[Non-fungible token (NFT)]]>
+    </category>
+    <category>
+        <![CDATA[Pricewaterhouse Coopers]]>
+    </category>
+    <category>
+        <![CDATA[PwC]]>
+    </category>
+    <category>
+        <![CDATA[PWC accounting]]>
+    </category>
+    <category>
+        <![CDATA[PWC consulting]]>
+    </category>
+    <category>
+        <![CDATA[PwC Hong Kong]]>
+    </category>
+    <category>
+        <![CDATA[SAND]]>
+    </category>
+    <category>
+        <![CDATA[Sébastien Borget]]>
+    </category>
+    <category>
+        <![CDATA[Snoop Dogg]]>
+    </category>
+    <category>
+        <![CDATA[Softbank’s Vision Fund 2]]>
+    </category>
+    <category>
+        <![CDATA[The Sandbox]]>
+    </category>
+    <category>
+        <![CDATA[The Sandbox metaverse]]>
+    </category>
+    <category>
+        <![CDATA[The Sandbox virtual world]]>
+    </category>
+    <category>
+        <![CDATA[William Gee]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501286</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/photo_2021-12-24-02-08-27.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />On Thursday, Pricewaterhouse Coopers&#x2019; (PWC) Hong Kong unit announced that it purchased a land site in The Sandbox metaverse. The PWC Hong Kong branch will be the first internationally recognized professional services brand to enter The Sandbox metaverse. PWC Hong Kong Enters the Metaverse While land located next to Snoop Dogg&#x2019;s Sandbox plot has sold [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/photo_2021-12-24-02-08-27.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>On Thursday, Pricewaterhouse Coopers&#x2019; (PWC) Hong Kong unit announced that it purchased a land site in The Sandbox metaverse. The PWC Hong Kong branch will be the first internationally recognized professional services brand to enter The Sandbox metaverse.</strong></p><h2>PWC Hong Kong Enters the Metaverse</h2><p>While land located next to Snoop Dogg&#x2019;s Sandbox plot has <a href="https://news.bitcoin.com/virtual-land-adjacent-to-snoop-doggs-sandbox-estate-sells-for-450k-in-ethereum/">sold for lots of money</a> and other firms like Atari have purchased Sandbox property, now major accounting firm PWC&#x2019;s Hong Kong branch has also purchased metaverse land in The Sandbox virtual world.</p><p>PWC is a multinational professional services network of firms located in 156 countries. The company is often referred to as one of the Big Four accounting firms alongside EY, KPMG, and Deloitte. PWC&#x2019;s Hong Kong branch has been into blockchain technology and crypto assets for quite some time and in November 2017, the office <a href="https://news.bitcoin.com/big-four-firm-pwcs-hong-kong-office-accepts-bitcoin/">revealed</a> it accepted bitcoin payments for consultancy services.</p><p>The announcement on December 23 says that the land in The Sandbox was specifically acquired by PWC Hong Kong. William Gee, a partner at PWC Hong Kong, commented about the land purchase and the metaverse in general on Thursday.</p><p>&#x201C;The metaverse offers new possibilities for organisations to create value through innovative business models, as well as introducing new ways to engage with their customers and communities,&#x201D; Gee remarked. The PWC Hong Kong executive added:</p><blockquote><p>We will leverage our expertise to advise clients who wish to embrace the metaverse on the full range of challenges presented by this emerging global digital phenomenon.</p></blockquote><h2>&#x2018;The Metaverse Is Open for Business&#x2019; &#x2014; The Sandbox Team Believes PWC Can Help &#x2018;Brands That May Be Less Familiar With Web3&#x2019;</h2><p>The Sandbox virtual blockchain game, that features land and other types of non-fungible token (NFT) assets, has been popular during the last year. The Sandbox&#x2019;s native digital asset <a href="https://www.coingecko.com/en/coins/the-sandbox">SAND</a> is up 11% during the last 30 days and 11,714% over the course of the last year. The blockchain-based metaverse game also<a href="https://news.bitcoin.com/the-sandbox-scores-93-million-investment-led-by-softbank-as-metaverse-tokens-thrive/">secured an investment</a> of $93 million during the first week of November in a financing round led by Softbank&#x2019;s Vision Fund 2.</p><p>Regarding the PWC land acquisition, The Sandbox says &#x201C;professional services firms such as PWC Hong Kong can play a valuable role in the growth of the open metaverse.&#x201D; Specifically, the announcement explains that PWC can help &#x201C;brands that may be less familiar with Web3.&#x201D; Sebastien Borget, COO of The Sandbox believes the Big Four accounting firm is at the forefront of this innovation.</p><p>&#x201C;The metaverse is open for business,&#x201D; Borget elaborated in a statement concerning PWC Hong Kong&#x2019;s land acquisition in the metaverse. &#x201C;We welcome PWC Hong Kong to experience how The Sandbox fosters new immersive experiences and ways for brands to connect with customers. It&#x2019;s an exciting time &#x2013; and PWC is at the forefront of this emerging frontier.&#x201D;</p><p><em><strong>What do you think about the accounting firm PWC Hong Kong acquiring land in The Sandbox metaverse? Let us know what you think about this subject in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/photo_2021-12-24-02-08-27.jpeg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[On Thursday, Pricewaterhouse Coopers' (#PWC) Hong Kong unit announced that it purchased a land site in #TheSandbox #metaverse. #NFTs #Blockchain ]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[On Thursday, Pricewaterhouse Coopers' (#PWC) Hong Kong unit announced that it purchased a land site in #TheSandbox #metaverse. #NFTs #Blockchain ]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>FBI Collaborates With Citibank, Sony, Japanese Authorities to Seize $180 Million in Bitcoin</title>
+    <link>https://news.bitcoin.com/fbi-collaborates-citibank-sony-japanese-authorities-seize-180-million-in-bitcoin/</link>
+    <dc:creator>
+        <![CDATA[Kevin Helms]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 18:30:50 +0000</pubDate>
+    <category>
+        <![CDATA[Regulation]]>
+    </category>
+    <category>
+        <![CDATA[Citi]]>
+    </category>
+    <category>
+        <![CDATA[CitiBank]]>
+    </category>
+    <category>
+        <![CDATA[CitiGroup]]>
+    </category>
+    <category>
+        <![CDATA[FBI]]>
+    </category>
+    <category>
+        <![CDATA[Japan]]>
+    </category>
+    <category>
+        <![CDATA[japanese authorities]]>
+    </category>
+    <category>
+        <![CDATA[japanese police]]>
+    </category>
+    <category>
+        <![CDATA[sony]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501275&#038;preview=true&#038;preview_id=501275</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/fbi-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="FBI Collaborates With Citibank, Sony, Japanese Authorities to Seize $180 Million in Bitcoin" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The Federal Bureau of Investigation (FBI), in collaboration with Citibank, Sony, and Japanese law enforcement, has taken action to &#x201C;return more than $154 million in funds that were allegedly stolen from a subsidiary of Tokyo-based Sony Group Corporation.&#x201D; The U.S. Department of Justice detailed: &#x201C;As a result of this coordinated effort, investigators obtained the &#x2018;private [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/fbi-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="FBI Collaborates With Citibank, Sony, Japanese Authorities to Seize $180 Million in Bitcoin" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The Federal Bureau of Investigation (FBI), in collaboration with Citibank, Sony, and Japanese law enforcement, has taken action to &#x201C;return more than $154 million in funds that were allegedly stolen from a subsidiary of Tokyo-based Sony Group Corporation.&#x201D; The U.S. Department of Justice detailed: &#x201C;As a result of this coordinated effort, investigators obtained the &#x2018;private key&#x2019; &#x2026; needed to access the bitcoin address.&#x201D;</strong></p><h2>Citibank and Sony Help FBI Seize Bitcoin Worth $180 Million</h2><p>The U.S. Department of Justice (DOJ) announced this week that the U.S. has &#x201C;filed a civil forfeiture complaint&#x201D; to &#x201C;return more than $154 million in funds that were allegedly stolen from a subsidiary of Tokyo-based Sony Group Corporation.&#x201D;</p><p>The FBI and various Japanese law enforcement agencies investigated the case &#x201C;with significant assistance from Sony and Citibank,&#x201D; the announcement details, adding:</p><blockquote><p>As a result of this coordinated effort, investigators obtained the &#x2018;private key&#x2019; &#x2026; needed to access the bitcoin address.</p></blockquote><p>Rei Ishii, an employee of Sony Life Insurance Company Ltd. in Tokyo, allegedly &#x201C;embezzled&#x201D; $154 million in May and transferred the funds to an account he controlled at a bank in La Jolla, California. He then quickly converted the funds &#x201C;to more than 3,879 bitcoins valued today at more than $180 million.&#x201D;</p><p>At the current price of bitcoin, this stack of <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> is worth almost $188 million.</p><p>The justice department explained that &#x201C;Those funds were seized by law enforcement on Dec. 1, 2021, based on the FBI&#x2019;s investigation,&#x201D; elaborating:</p><blockquote><p>Law enforcement was able to trace bitcoin transfers and identify that approximately 3,879.16 bitcoins, representing the proceeds of the funds stolen from a subsidiary of Sony Life, had been transferred to a specific bitcoin address and then to an offline cryptocurrency cold wallet.</p></blockquote><p>&#x201C;All the bitcoins traceable to the theft have been recovered and fully preserved. Ishii has been criminally charged in Japan,&#x201D; the DOJ noted. &#x201C;The FBI&#x2019;s technical expertise was able to trace the money to the subject&#x2019;s crypto wallet and seize those funds.&#x201D;</p><p>Acting U.S. Attorney Randy Grossman opined, &#x201C;It is our intent to return the stolen money to the victim of this audacious theft.&#x201D;</p><p><em><strong>What do you think about this case? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/fbi-1.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA["As a result of this coordinated effort, investigators obtained the ‘private key’ ... needed to access the #bitcoin address." #cryptocurrency #sony #citi]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[“The FBI’s technical expertise was able to trace the money to the subject’s crypto wallet and seize those funds.” #bitcoin #cryptocurrency #sony #citi]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Bitcoin&#8217;s Hashpower Remains High, Up 163% in 5 Months, Foundry USA Commands Top Mining Pool</title>
+    <link>https://news.bitcoin.com/bitcoins-hashpower-remains-high-up-163-in-5-months-foundry-usa-commands-top-mining-pool/</link>
+    <dc:creator>
+        <![CDATA[Jamie Redman]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 16:30:44 +0000</pubDate>
+    <category>
+        <![CDATA[Mining]]>
+    </category>
+    <category>
+        <![CDATA[180 EH/s]]>
+    </category>
+    <category>
+        <![CDATA[180 exahash]]>
+    </category>
+    <category>
+        <![CDATA[Antpool]]>
+    </category>
+    <category>
+        <![CDATA[Binance Pool]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin (BTC)]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin mining]]>
+    </category>
+    <category>
+        <![CDATA[BTC Mining]]>
+    </category>
+    <category>
+        <![CDATA[difficulty]]>
+    </category>
+    <category>
+        <![CDATA[entity]]>
+    </category>
+    <category>
+        <![CDATA[F2Pool]]>
+    </category>
+    <category>
+        <![CDATA[Foundry]]>
+    </category>
+    <category>
+        <![CDATA[Foundry USA]]>
+    </category>
+    <category>
+        <![CDATA[Hashpower]]>
+    </category>
+    <category>
+        <![CDATA[Hashrate]]>
+    </category>
+    <category>
+        <![CDATA[mining bitcoin]]>
+    </category>
+    <category>
+        <![CDATA[Mining BTC]]>
+    </category>
+    <category>
+        <![CDATA[Mining Difficulty]]>
+    </category>
+    <category>
+        <![CDATA[Price]]>
+    </category>
+    <category>
+        <![CDATA[Stealth Miners]]>
+    </category>
+    <category>
+        <![CDATA[Unknown hashrate]]>
+    </category>
+    <category>
+        <![CDATA[ViaBTC]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501239</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/bitcoins-hashrate-remains-high-up-163-in-5-months-foundry-usa-commands-top-mining-pool.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The hashpower behind the Bitcoin network has continued to stay above the 180 exahash per second (EH/s) zone after recently reaching a lifetime high. Five months ago the hashrate tapped a low at 69 EH/s and since then, the hashpower has increased by 163% during the last 178 days, or five months ago. Bitcoin Hashrate [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/bitcoins-hashrate-remains-high-up-163-in-5-months-foundry-usa-commands-top-mining-pool.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p dir="ltr"><strong>The hashpower behind the Bitcoin network has continued to stay above the 180 exahash per second (EH/s) zone after recently reaching a lifetime high. Five months ago the hashrate tapped a low at 69 EH/s and since then, the hashpower has increased by 163% during the last 178 days, or five months ago.</strong></p><h2>Bitcoin Hashrate Continues to Run Hot at End of Year Following China&#x2019;s Crackdown on Bitcoin Mining This Past Summer</h2><p dir="ltr">Miners dedicating SHA256 hashpower to the Bitcoin blockchain have been keeping the processing power above 180 EH/s. At the time of writing on December 23, <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>&#x2019;s hashrate is hovering just above the 186 EH/s zone. The recent hashrate highs follow<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>&#x2019;s lifetime hashrate high<a href="https://news.bitcoin.com/bitcoin-hashrate-hits-an-all-time-high-suggesting-thousands-of-next-gen-machines-have-joined-the-race/">tapping 194.95 EH/s</a> on December 8, 2021. Since then, metrics indicate that the hashrate has been hovering below that region and 30-day stats show a few times when the it quickly came close to the December 8 high.</p><p dir="ltr"><a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>&#x2019;s hashrate is currently doing a whole lot better than records show on June 28, 2021, when the processing power plummeted to 69 EH/s. Thanks to the crackdowns on Chinese mining operations located in China, the network lost 63.87% of its hashpower from 191 EH/s on May 9, to the 69 EH/s at the end of June. Five months later, the hashrate has rebounded and regained the processing power lost during that time frame. At the end of June,<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>&#x2019;s price was much lower, swapping for $34K per unit.</p><p dir="ltr"></p><h2 dir="ltr">Difficulty Expected to Drop Slightly, Foundry USA Commands Top Position This Week</h2><p dir="ltr">This past week <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> has been trading at prices between $46.5K to $49.5K and this has kept the hashrate running strong &#x2014; even after the network&#x2019;s mining difficulty jumped 8.33% higher on December 11. In fact, the network difficulty may see a downward adjustment for the first time since the November 28 1.49% drop. At the time of writing, and over 24 hours from now, the difficulty is expected to drop again a hair, down 0.23%. This would bring the current 24.20 trillion mining difficulty down a notch to 24.14 trillion.</p><p dir="ltr">Currently, the largest bitcoin (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>) miner in terms of overall hashrate is Foundry USA with 17.17% of the global hashpower or 29.82 EH/s. The second-largest miner today is Bitmain&#x2019;s Antpool with 14.78% of the global hashpower or 25.67 EH/s. Antpool is followed by Viabtc (14.57%), F2pool (13.26%), and Binance Pool (12.17%). Unknown hashrate or stealth miners command 12.17% of the network&#x2019;s hashpower and are the sixth-largest entity in terms of global hashrate. The unknown hashrate at the time of writing has around 21.14 exahash per second of hashpower.</p><p dir="ltr"><em><strong>What do you think about the current state of the proof-of-work (PoW)-powered Bitcoin network&#x2019;s hashrate? Let us know what you think about this subject in the comments below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/bitcoins-hashrate-remains-high-up-163-in-5-months-foundry-usa-commands-top-mining-pool.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[The hashpower behind the #Bitcoin network has continued to stay above the 180 EH/s zone after recently reaching a lifetime high.]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[The hashpower behind the #Bitcoin network has continued to stay above the 180 EH/s zone after recently reaching a lifetime high.]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Pakistanis Own $20 Billion in Crypto, Report Reveals</title>
+    <link>https://news.bitcoin.com/pakistanis-own-20-billion-in-crypto-report-reveals/</link>
+    <dc:creator>
+        <![CDATA[Lubomir Tassev]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 14:30:45 +0000</pubDate>
+    <category>
+        <![CDATA[News]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin]]>
+    </category>
+    <category>
+        <![CDATA[Coins]]>
+    </category>
+    <category>
+        <![CDATA[Crypto]]>
+    </category>
+    <category>
+        <![CDATA[Crypto Holdings]]>
+    </category>
+    <category>
+        <![CDATA[crypto investments]]>
+    </category>
+    <category>
+        <![CDATA[Crypto investors]]>
+    </category>
+    <category>
+        <![CDATA[Cryptocurrencies]]>
+    </category>
+    <category>
+        <![CDATA[Cryptocurrency]]>
+    </category>
+    <category>
+        <![CDATA[Digital Assets]]>
+    </category>
+    <category>
+        <![CDATA[foreign reserves]]>
+    </category>
+    <category>
+        <![CDATA[holdings]]>
+    </category>
+    <category>
+        <![CDATA[Investments]]>
+    </category>
+    <category>
+        <![CDATA[Investors]]>
+    </category>
+    <category>
+        <![CDATA[Islamabad]]>
+    </category>
+    <category>
+        <![CDATA[pakistan]]>
+    </category>
+    <category>
+        <![CDATA[Pakistani]]>
+    </category>
+    <category>
+        <![CDATA[Pakistanis]]>
+    </category>
+    <category>
+        <![CDATA[Regulation]]>
+    </category>
+    <category>
+        <![CDATA[Regulations]]>
+    </category>
+    <category>
+        <![CDATA[report]]>
+    </category>
+    <category>
+        <![CDATA[Research]]>
+    </category>
+    <category>
+        <![CDATA[rules]]>
+    </category>
+    <category>
+        <![CDATA[study]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501225</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/pakistanis.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Pakistanis Own $20 Billion of Crypto, Report Reveals" loading="lazy" style="float:left; margin:0 15px 15px 0;" />In the absence of regulations, people in Pakistan have invested a serious amount of money in digital assets. New research claims Pakistanis keep some $20 billion in cryptocurrency, allegedly more than what their central bank has in foreign reserves. Government Urged for Regulations as Study Shows Pakistanis Hold $20 Billion in Cryptocurrency The Pakistani nation [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/pakistanis.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Pakistanis Own $20 Billion of Crypto, Report Reveals" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>In the absence of regulations, people in Pakistan have invested a serious amount of money in digital assets. New research claims Pakistanis keep some $20 billion in cryptocurrency, allegedly more than what their central bank has in foreign reserves. </strong></p><h2>Government Urged for Regulations as Study Shows Pakistanis Hold $20 Billion in Cryptocurrency</h2><p>The Pakistani nation owns more cryptocurrency than foreign reserves, according to the Pakistan Frontier and other media outlets quoting a new report by the Federation of Pakistan Chambers of Commerce and Industry (FPCCI). The study, produced by the association&#x2019;s Policy Advisory Board (PAB), has estimated that Pakistanis have held cryptocurrency worth $20 billion in the 2020-21 period.</p><p>The authors point out that the popularity of digital currencies like bitcoin has rapidly increased in the last couple of years. With a 711% market growth in 12 months, Pakistan climbed to third place in this year&#x2019;s Global Crypto Adoption <a href="https://blog.chainalysis.com/reports/2021-global-crypto-adoption-index/" target="_blank" rel="noopener">Index</a> calculated by blockchain forensics firm Chainalysis. The country is behind only India and Vietnam.</p><p>However, the true total of crypto holdings may be much higher than the figure mentioned in the PAB report. Many residents of the country are buying coins via peer-to-peer deals and these investments remain largely undetected, the Business Recorder notes in an article. Cryptocurrencies are still a gray area in Pakistan as the country&#x2019;s current legislation does not cover the digital assets.</p><p>During a press conference, FPCCI President Nasir Hayat Magoon urged Islamabad to introduce a government policy that would facilitate cryptocurrency transactions, remarking that neighboring <a href="https://news.bitcoin.com/indian-government-seeks-wider-consultation-before-finalizing-crypto-bill/">India</a> has already taken steps to implement some rules. Magoon insisted that such regulations are needed so that investors can trade their coins in the country instead of in places like<a href="https://news.bitcoin.com/dubai-to-create-crypto-zone-binance-joins-effort/">Dubai</a>.</p><p>The report recommends that Pakistan adopt a legal framework aligned with guidelines issued by the Financial Action Task Force and the International Monetary Fund. The study has been released after Pakistan&#x2019;s Minister of State for Parliamentary Affairs Ali Muhammad Khan <a href="https://news.bitcoin.com/pakistan-government-not-against-crypto-investments-high-court-calls-for-regulations/">indicated</a> in October that the government is not opposed to cryptocurrency investments in general. Pakistan&#x2019;s courts have also called on the executive and legislative powers to introduce crypto regulations.</p><p><em><strong>Do you expect authorities in Pakistan to soon regulate the country&#x2019;s crypto space? Let us know in the comments section below. </strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/pakistanis.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[Pakistani investors hold $20 billion in #cryptocurrency, new research reveals. ]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[Business association calls on the government in Pakistan to adopt #crypto regulations. ]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Ebay Alternative Platform Ethair Market Launches Its Token, Sellers Can Now Accept Crypto for Goods</title>
+    <link>https://news.bitcoin.com/ebay-alternative-platform-ethair-market-launches-its-token-sellers-can-now-accept-crypto-for-goods/</link>
+    <dc:creator>
+        <![CDATA[Bitcoin.com Media]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 14:00:47 +0000</pubDate>
+    <category>
+        <![CDATA[Sponsored]]>
+    </category>
+    <category>
+        <![CDATA[Ethair Market]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501062&#038;preview=true&#038;preview_id=501062</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/ethair-com_header_image.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Ethair Market has listed ETHR token on Uniswap as a result of its first governance vote by the holders. Utilities of the token are directly tied to a user&#x2019;s interaction with the marketplace. On top of the proprietary token, Ethair Market currently supports fiat and cryptocurrencies such as: Bitcoin, Ethereum, Litecoin, Stellar and USDC, and [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/ethair-com_header_image.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><a href="https://www.ethair.com/">Ethair Market</a> has listed<a href="https://www.ethair.com/content/ethr-ethair-token.html">ETHR token</a> on Uniswap as a result of its first governance vote by the holders. Utilities of the token are directly tied to a user&#x2019;s interaction with the marketplace. On top of the proprietary token, Ethair Market currently supports fiat and cryptocurrencies such as: Bitcoin, Ethereum, Litecoin, Stellar and USDC, and<a href="https://www.ethair.com/content/accepted-cryptocurrencies.html">more</a>.</p><p>The marketplace is currently in beta, allowing sellers to their items before the full release. Ethair Market operates in the traditional B2C/C2C modes with two types of listings: Market which are new fixed price items, and &#x201C;Buy Offer Bid&#x201D; (referred to as BOB on the platform) which includes new and used auction items that customers can buy outright, make an offer on, or bid on like in traditional auctions.</p><p>Ethair is aggressively marketing through Google, YouTube, Yahoo, and Twitter ads. Running Uber ads in Los Angeles, Chicago, and New York with soon to have nationwide major highway billboards.</p><p>You may check ETHR&#x2019;s token contract <a href="https://etherscan.io/token/0x72852e6f234e34e695ca7452fe392dacdff3ec17">here</a>.</p><p><b>What&#x2019;s the ETHR token utility?</b></p><p>ETHR is Ethair&#x2019;s native token that is integrated into crucial components of the marketplace. Its utility expands across the marketplace and allows for users to enjoy various benefits. That means that they can enjoy the &#x201C;off-chain&#x201D; benefits of using ETHR as a form of payment on the platform thus having no gateway or blockchain fees by having a token balance in their account.</p><p>For sellers specifically, the token offers various discounts. By holding 100 ETHR in their account, sellers can get a 10% discount on the Final Value Fees on every sale. They will also receive a 15% discount on advertising fees when they are paid for with ETHR and receive access to exclusive ad spots for token holders, which are also paid for with ETHR.</p><p>These utilities are currently only available to token holders and will be expanded to all users once the deposit functionality is fully implemented to enjoy these benefits.</p><p><b>Governance Voting</b></p><p>All Ethair Market users with any amount of ETHR in their accounts are eligible for governance voting rights on certain token matters. This allows for the token to be utilitarian and gives users the ability to control potential actions.</p><p><a href="https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20211222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211222T105857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=b4c825183b1db881ad5980ea0db682ca760d049c515a608222d4e1a6818b993d"><img loading="lazy" class="aligncenter size-full wp-image-501063" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution.png" alt="" width="1280" height="720" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/token_distribution.png 1280w" sizes="(max-width: 1280px) 100vw, 1280px"></a></p><p><b>Tokenomics & Minting</b></p><p>ETHR is an Ethereum based token (ERC-20) with an initial supply cap of 2 million. There is no maximum supply cap. However, the creation of additional tokens is directly tied with users&#x2019; marketplace transactions. ETHR can only be minted by exchanging customers&#x2019; transaction-generated points for ETHR. This is the only way that additional tokens are created and promotes platform utilization.</p><p>These <a href="https://www.ethair.com/content/points.html">points</a> are Ethair&#x2019;s rewards system and they are gained on every successful transaction. They function as part of the 25% reimbursement of Final Value Fees for each transaction given to both parties, and as such reduce marketplace fees even further.</p><p>When a user requests to exchange their points into an ETHR token, our smart contract first gives them a platform-exclusive bonus of 10% more than the value exchanged in ETHR. This multiplies the request by two. The newly minted ETHR is then supplied to the user and the remainder is evenly distributed between two pools.</p><p>The referral <a href="https://www.ethair.com/content/referral-program.html">program</a> rewards users who have referred verified marketplace customers with a share of generated pool rewards. These rewards will be doled out monthly for a limited time 1-year period after which the governance voting will decide what the next use of this pool will be.</p><p>Company Account pool is aimed (but not limited to) to be used for promotions and partnerships.</p><p><a href="https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20211222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211222T110005Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=de860a2725090579fa968c04f595b07b9c5ecb39e4424b0d3c9c329dee7e52a5"><img loading="lazy" class="aligncenter size-full wp-image-501064" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example.png" alt="" width="1280" height="720" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/12/toek_minting_example.png 1280w" sizes="(max-width: 1280px) 100vw, 1280px"></a></p><p><b>Company goals and expansion</b></p><p>Ethair&#x2019;s goal is to be a more customer-friendly platform. They are aiming to improve what a marketplace can offer to its users with a primary goal of supporting its sellers and their businesses.</p><p>With Stripe integrated as its form of payment processing, Ethair currently supports users in the US and Canada, and is already looking to expand to another 45 countries.</p><p>The next big step is the implementation of the NFT marketplace. The way Ethair imagines NFTs is a hybrid of on-chain and off-chain states allowing for cross-chain, feeless and instantaneous transactions while bringing the technology closer to the masses with unique use-cases.</p><p><b>Socials</b></p><p><a href="https://www.ethair.com/">https://www.ethair.com</a></p><p><a href="https://twitter.com/EthairMarket">https://twitter.com/EthairMarket</a></p><p><a href="https://twitter.com/ETHRtoken">https://twitter.com/ETHRtoken</a></p><p><a href="https://www.facebook.com/EthairMarket/">https://www.facebook.com/EthairMarket/</a></p><p><a href="https://www.t.me/EthairMarket">https://www.t.me/EthairMarket</a></p><p>&#xA0;</p><p>&#xA0;</p><hr><p><small><em>This is a sponsored post. Learn how to reach our audience <a href="https://www.bitcoin.com/advertise/" target="_blank" rel="noopener noreferrer">here</a>. Read disclaimer below.</em></small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/ethair-com_header_image.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[Ebay Alternative Platform Ethair Market Launches Its Token, Sellers Can Now Accept Crypto for Goods]]>
+</bnmedia:barker_title>
+</item>
+<item>
+    <title>Report: Illegal Trades Account for Less Than 3% of Total Bitcoin Transactions</title>
+    <link>https://news.bitcoin.com/report-illegal-trades-account-for-less-than-3-of-total-bitcoin-transactions/</link>
+    <dc:creator>
+        <![CDATA[Terence Zimwara]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 12:00:02 +0000</pubDate>
+    <category>
+        <![CDATA[Blockchain]]>
+    </category>
+    <category>
+        <![CDATA[Antoinette Schoar]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin Transactions]]>
+    </category>
+    <category>
+        <![CDATA[Bitcoin Value]]>
+    </category>
+    <category>
+        <![CDATA[bitcoin volumes]]>
+    </category>
+    <category>
+        <![CDATA[Cryptocurrency Exchange]]>
+    </category>
+    <category>
+        <![CDATA[Igor Makarov]]>
+    </category>
+    <category>
+        <![CDATA[illegal transactions]]>
+    </category>
+    <category>
+        <![CDATA[London School of Economics]]>
+    </category>
+    <category>
+        <![CDATA[MIT Sloan School of Management]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501152</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/ttf.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Report: Illegal Trades Account for Less Than 3% of Total Bitcoin Transactions" loading="lazy" style="float:left; margin:0 15px 15px 0;" />According to a new report, illegal transactions, scams and gambling together make up less than 3% of the volume on the Bitcoin blockchain while exchanges and trading desks account for around 80% of volume. Exchanges Dominate Bitcoin Volumes A new study called &#x201C;Blockchain Analysis of the Bitcoin Market&#x201D; has found that illegal transactions, scams, and [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/ttf.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Report: Illegal Trades Account for Less Than 3% of Total Bitcoin Transactions" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>According to a new report, illegal transactions, scams and gambling together make up less than 3% of the volume on the Bitcoin blockchain while exchanges and trading desks account for around 80% of volume. </strong></p><h2>Exchanges Dominate Bitcoin Volumes</h2><p>A new <a href="https://www.nber.org/system/files/working_papers/w29396/w29396.pdf">study</a> called &#x201C;B<span style="font-weight: 400;">lockchain Analysis of the Bitcoin Market&#x201D; </span>has found that illegal transactions, scams, and gambling combined account for just 3% of all onchain bitcoin trade volume. On the other hand, the study asserts that exchange and trading desk-related volume &#x2014; which is mostly speculative &#x2014; constitutes about 80% of the total volume.</p><p>In their analysis, the authors of a report released by the National Bureau of Economic Research (NBER) appear to debunk the assertion that illegal transactions dominate bitcoin (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a>) trade volumes. In particular, the authors, Igor Makarov from the London School of Economics and Antoinette Schoar of the MIT Sloan School of Management, explain how earlier studies were likely to be overstating the economic value of illegal trades.</p><p>To support their argument, the two authors point to a 2019 study that had concluded that more than 46% of <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> transactions are due to illegal transactions. The authors stated:</p><blockquote><p>First, Foley et al. (2019) intentionally drop all exchange-related volumes from their calculations, since they want to focus only on payments for goods and services. Since we show above that trading constitutes the main activity on the blockchain, this choice severely changes the denominator.</p></blockquote><p>In addition, the authors said the estimate of volume in the Foley study is based on what they termed an imputed network of illegal clusters where any cluster recursively is deemed illegal if the majority of its transactions are with previously identified illegal clusters.</p><h2>Drivers of Bitcoin Volume and Value</h2><p>Although the two authors agree that this method is appealing, they nonetheless argue that this &#x201C;does not discriminate between real users and short-lived pass-through clusters that exist solely to obfuscate tracing.&#x201D;</p><p>Unlike the method that was used in the 2019 study, Makarov and Schoar do incorporate exchanges, over-the-counter (OTC) desks, or trading desk data when computing the non-spurious <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BTC" 311996  target="_blank">BTC</a> volumes. Consequently, in their analysis, the two authors conclude that exchange and trading desk-related volume constitutes about 80% of the total volume while other known entities are only responsible for a minor part of total volume as of the end of 2020.</p><p>While Makarov and Schoar suggested in their report that they agreed with the general concern over the pseudonymous nature of bitcoin transactions, they however insisted that it is &#x201C;important to get the magnitudes of transaction activities right in order to understand what are the ultimate drivers of bitcoin value.&#x201D;</p><p><em><strong>Do you agree with this study&#x2019;s conclusion about the size of illegal transactions on the Bitcoin blockchain? Tell us what you think in the comments section below. </strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/ttf.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[The study asserts that exchange and trading desk related volume — which is mostly speculative — constitutes about 80% of the total volume. #exchange #otc #trading]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[The authors said it is important to get the magnitudes of transaction activities right in order to understand what are the ultimate drivers of bitcoin value. #bitcoin #transactions]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Dubai to Create Crypto Zone, Binance Joins Effort</title>
+    <link>https://news.bitcoin.com/dubai-to-create-crypto-zone-binance-joins-effort/</link>
+    <dc:creator>
+        <![CDATA[Lubomir Tassev]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 09:00:38 +0000</pubDate>
+    <category>
+        <![CDATA[News]]>
+    </category>
+    <category>
+        <![CDATA[abu dhabi]]>
+    </category>
+    <category>
+        <![CDATA[Binance]]>
+    </category>
+    <category>
+        <![CDATA[Changpeng Zhao]]>
+    </category>
+    <category>
+        <![CDATA[Collaboration]]>
+    </category>
+    <category>
+        <![CDATA[companies]]>
+    </category>
+    <category>
+        <![CDATA[Crypto]]>
+    </category>
+    <category>
+        <![CDATA[crypto assets]]>
+    </category>
+    <category>
+        <![CDATA[Cryptocurrencies]]>
+    </category>
+    <category>
+        <![CDATA[Cryptocurrency]]>
+    </category>
+    <category>
+        <![CDATA[CZ]]>
+    </category>
+    <category>
+        <![CDATA[Digital Assets]]>
+    </category>
+    <category>
+        <![CDATA[Dubai]]>
+    </category>
+    <category>
+        <![CDATA[Dubai World Trade Centre]]>
+    </category>
+    <category>
+        <![CDATA[DWTC]]>
+    </category>
+    <category>
+        <![CDATA[Ecosystem]]>
+    </category>
+    <category>
+        <![CDATA[Exchange]]>
+    </category>
+    <category>
+        <![CDATA[Exchanges]]>
+    </category>
+    <category>
+        <![CDATA[headquarters]]>
+    </category>
+    <category>
+        <![CDATA[providers]]>
+    </category>
+    <category>
+        <![CDATA[Regulation]]>
+    </category>
+    <category>
+        <![CDATA[Regulations]]>
+    </category>
+    <category>
+        <![CDATA[UAE]]>
+    </category>
+    <category>
+        <![CDATA[virtual assets]]>
+    </category>
+    <category>
+        <![CDATA[zone]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501159</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1215097984.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Dubai to Create Crypto Zone, Binance Joins Effort" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The Dubai World Trade Centre will become a comprehensive ecosystem for cryptocurrencies and providers of related services. The move is part of efforts to support new industries and the emirate intends to source help from crypto companies like Binance. Dubai World Trade Centre to Host and Regulate Crypto Space Authorities in the United Arab Emirates [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1215097984.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Dubai to Create Crypto Zone, Binance Joins Effort" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The Dubai World Trade Centre will become a comprehensive ecosystem for cryptocurrencies and providers of related services. The move is part of efforts to support new industries and the emirate intends to source help from crypto companies like Binance.</strong></p><h2>Dubai World Trade Centre to Host and Regulate Crypto Space</h2><p>Authorities in the United Arab Emirates plan to establish a special zone at the Dubai World Trade Centre (<a href="https://www.dwtc.com/en" target="_blank" rel="noopener">DWTC</a>) from which businesses dealing with digital assets will be able to offer their products and services. The government of Dubai announced that the DWTC will also play the role of a regulator for the sector, enforcing &#x201C;rigorous standards for investor protection, anti-money laundering (AML), combating the financing of terrorism (CFT) compliance and cross border deal flow tracing.&#x201D;</p><p>According to an official announcement, the goal is to further develop Dubai&#x2019;s virtual assets space and market by introducing a <a href="https://news.bitcoin.com/dubai-financial-watchdog-to-release-consultation-papers-for-a-crypto-regulatory-framework/">regulatory framework</a> for innovative financial products that includes legislative and enforcement policies. Officials hope this will facilitate the adoption of new blockchain-related trends and improve Dubai&#x2019;s standing as a global business center.</p><h2>Binance Considering Headquarters in UAE</h2><p>Dubai authorities also emphasized that the DWTC will work together with the private sector and other relevant entities to create an attractive environment for the crypto industry. One such collaboration has already been agreed with <a href="https://news.bitcoin.com/binance-developing-crypto-exchange-in-indonesia/">Binance</a>, the world&#x2019;s largest digital asset exchange in terms of volume, the Straits Times reported. Dubai wants to license such crypto trading platforms and other blockchain businesses.</p><p>Under a memorandum of understanding signed with the authority governing the Dubai World Trade Centre, Binance will share its experience with regulators in other jurisdictions with the administration, the company announced on Tuesday. A report by Bloomberg revealed that the exchange has been negotiating with Dubai and Abu Dhabi to set up its headquarters in UAE.</p><p>According to the Straits Times, Binance&#x2019;s founder and CEO Changpeng Zhao recently bought a home in Dubai and met key representatives of the local crypto industry while praising the emirate&#x2019;s <a href="https://news.bitcoin.com/dubai-government-licensing-entity-now-accepts-bitcoin-for-payments/">pro-crypto</a> stance on social media. The executive has been quoted as saying in a statement released on Tuesday:</p><blockquote><p>Today, the adoption of crypto and blockchain technology remains in its infancy, but through our leadership position and expertise, combined with the long-term vision of Dubai, we plan to develop a regulatory framework appropriate to fit the fast-moving and progressive nature of virtual assets.</p></blockquote><p>The report notes that energy-rich Dubai has been trying to boost non-oil growth in order to ensure the sustainability of its economy. The project to turn the Dubai World Trade Centre into a regulated zone for cryptocurrency operations is part of these efforts.</p><p><em><strong>Do you expect Dubai to become a crypto hotspot in the near future? Tell us in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1215097984.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[Dubai World Trade Centre to create ecosystem for #cryptocurrencies and crypto service providers.  ]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[#Crypto exchange #Binance to share regulatory experience with Dubai, considers headquarters in UAE. ]]>
+</bnmedia:late_barker_title>
+</item>
+<item>
+    <title>Defi Marketplace and NFT Platform Arcade Raises $15 Million in Series A Funding Round</title>
+    <link>https://news.bitcoin.com/defi-marketplace-and-nft-platform-arcade-raises-15-million-in-series-a-funding-round/</link>
+    <dc:creator>
+        <![CDATA[Jamie Redman]]>
+    </dc:creator>
+    <pubDate>Thu, 23 Dec 2021 07:00:46 +0000</pubDate>
+    <category>
+        <![CDATA[Finance]]>
+    </category>
+    <category>
+        <![CDATA[Arcade Series A]]>
+    </category>
+    <category>
+        <![CDATA[Blockchain Firm]]>
+    </category>
+    <category>
+        <![CDATA[Capital raise]]>
+    </category>
+    <category>
+        <![CDATA[Castle Island Ventures]]>
+    </category>
+    <category>
+        <![CDATA[crypto company]]>
+    </category>
+    <category>
+        <![CDATA[decentralized finance]]>
+    </category>
+    <category>
+        <![CDATA[DeFi]]>
+    </category>
+    <category>
+        <![CDATA[funding round]]>
+    </category>
+    <category>
+        <![CDATA[investment]]>
+    </category>
+    <category>
+        <![CDATA[lending]]>
+    </category>
+    <category>
+        <![CDATA[nft]]>
+    </category>
+    <category>
+        <![CDATA[NFT collectors]]>
+    </category>
+    <category>
+        <![CDATA[NFT financialization platform]]>
+    </category>
+    <category>
+        <![CDATA[NFTs]]>
+    </category>
+    <category>
+        <![CDATA[Non-fungible Token]]>
+    </category>
+    <category>
+        <![CDATA[onchain loan of $800K]]>
+    </category>
+    <category>
+        <![CDATA[Pantera Capital]]>
+    </category>
+    <category>
+        <![CDATA[Series A]]>
+    </category>
+    <category>
+        <![CDATA[Series A Funding Round]]>
+    </category>
+    <category>
+        <![CDATA[the Franklin Templeton Blockchain Fund]]>
+    </category>
+    <category>
+        <![CDATA[Wrapped NFT]]>
+    </category>
+    <guid isPermaLink="false">https://news.bitcoin.com/?p=501128</guid>
+    <description>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/arcadeccs.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Defi Marketplace and NFT Platform Arcade Raises $15 Million in Series A Funding Round" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The decentralized finance (defi) marketplace, non-fungible token (NFT) financialization platform, and lending application Arcade has announced the company has closed a Series A investment round for $15 million. Just recently, Arcade facilitated an onchain loan of $800,000 against an NFT portfolio from a lender with over $10 billion. Arcade Raises $15 Million in Series A [&#8230;]]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2021/12/arcadeccs.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Defi Marketplace and NFT Platform Arcade Raises $15 Million in Series A Funding Round" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The decentralized finance (defi) marketplace, non-fungible token (NFT) financialization platform, and lending application Arcade has announced the company has closed a Series A investment round for $15 million. Just recently, Arcade facilitated an onchain loan of $800,000 against an NFT portfolio from a lender with over $10 billion.</strong></p><h2>Arcade Raises $15 Million in Series A Co-Led by Pantera Capital, Castle Island Ventures, Franklin Templeton Blockchain Fund</h2><p>The defi marketplace Arcade has raised $15 million in capital during a Series A financing round, according to the company. The investment was co-led by Pantera Capital, Castle Island Ventures, and the Franklin Templeton Blockchain Fund. Furthermore, Lemniscap, Eniac Ventures, Probably Nothing Capital, Protofund, and Golden Tree Asset Management participated in Arcade&#x2019;s funding.</p><p>Arcade&#x2019;s milestone onchain loan of $800,000 is part of &#x201C;$3.3 million in total loan volume that has been secured during Arcade&#x2019;s private release, with the total value of assets that have been loaned on Arcade equaling $10 million, Arcade says. While Arcade is fully compatible with a myriad of ERC20 tokens, the project also features a proprietary <a href="https://docs.arcade.xyz/docs/creating-a-wnft">Wrapped NFT</a> technology.</p><p>&#x201C;[Wrapped NFT] allows multiple NFT assets to be bundled and utilized to acquire a single loan, enabling for the acquisition of larger loans and greater liquidity,&#x201D; the Series A funding announcement details describing the Wrapped NFT feature. &#x201C;As an open-source defi primitive, Arcade will also enable developers to build on top of the platform, supporting the broader utilization of this new asset class.&#x201D;</p><p>Pantera Capital&#x2019;s Lauren Stephanian explained during the Series A announcement that the company looks forward to Arcade&#x2019;s potential. &#x201C;Arcade&#x2019;s collateralization of this new asset class will incentivize the participation of new entities from both the traditional and digital art and finance worlds, including institutional lenders, high-net-worth individuals, DAOs, companies with NFTs on their balance sheets, and NFT collectors and creators,&#x201D; Stephanian added.</p><p><em><strong>What do you think about Arcade raising $15 million in a Series A funding round? Let us know what you think about this subject in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</content:encoded>
+<bnmedia:post-thumbnail>
+    <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2021/12/arcadeccs.jpg</bnmedia:url>
+    <bnmedia:width>760</bnmedia:width>
+    <bnmedia:height>428</bnmedia:height>
+</bnmedia:post-thumbnail>
+<bnmedia:barker_title>
+    <![CDATA[The #DeFi marketplace #Arcade has announced the company has closed a Series A investment round for $15 million. #Blockchain #NFT]]>
+</bnmedia:barker_title>
+<bnmedia:late_barker_title>
+    <![CDATA[The #DeFi marketplace #Arcade has announced the company has closed a Series A investment round for $15 million. #Blockchain #NFT]]>
+</bnmedia:late_barker_title>
+</item>
+</channel>
+</rss>

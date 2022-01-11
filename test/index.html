@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang='fr'>
+
+<head>
+    <meta charset="UTF-8"/>
+    <title>Emmanuel Nuiro - Designer, Marketer &amp; Developer</title>
+    <meta name="description"
+        content="I'm just a guy who likes to create things. But I'm good at it! See my work on this portfolio."/>
+    <meta name="robot" content="noindex,nofollow"/>
+    <meta property="og:title" content="Emmanuel Nuiro - Designer, Marketer &amp; Developer."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://emmanuel.nuiro.me"/>
+    <meta property="og:image" content="https://emmanuel.nuiro.me/Images/IMG_3733_v2_Large.png"/>
+    <meta property="og:description" content="See my work here, on my portfolio."/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1"/>
+    <link href="https://fonts.googleapis.com/css2?family=Gotu&amp;display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap"
+        rel="stylesheet"/>
+    <style>
+        @media screen {
+            body {
+                overflow-x: hidden;
+                background-color: #F2F2F2;
+                padding: 0px;
+                margin: 0px;
+                font-family: 'Roboto', sans-serif;
+                color: #190E1A;
+                -ms-overflow-style: none;
+            }
+
+            body::-webkit-scrollbar {
+                display: none;
+            }
+
+            .hiddenIcon {
+                width: 24px;
+                height: 24px;
+                display: none;
+                margin: 0px 24px;
+            }
+
+            nav a,
+            #language a {
+                -moz-transition-duration: 0.4s;
+                -ms-transition-duration: 0.4s;
+                -o-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                color: #190E1A;
+                text-decoration: none;
+                overflow: hidden;
+            }
+
+            #photo {
+                background-repeat: no-repeat;
+                background-size: contain;
+                opacity: 0;
+            }
+
+            #creator {
+                display: inline;
+            }
+
+            form {
+                display: grid;
+            }
+
+            #message {
+                min-height: calc(20vh - 12px);
+                padding-top: 12px;
+            }
+
+            input,
+            textarea {
+                border-radius: 5px;
+                background-color: #F2F2F2;
+                padding-left: 8px;
+                border: none;
+            }
+
+            input:focus,
+            textarea:focus {
+                outline: none;
+            }
+
+            #contact {
+                background-color: #190E1A;
+                height: 100vh;
+                color: #F2F2F2;
+            }
+
+            [type="file"] {
+                color: transparent;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            [type="file"]::-webkit-file-upload-button {
+                display: none;
+            }
+
+            [type="file"]::after {
+                color: #190E1A;
+                content: "Choisir...";
+                outline: none;
+                height: 100%;
+                white-space: nowrap;
+                -webkit-user-select: none;
+                cursor: pointer;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+
+        @media screen {
+            .slowBande {
+                width: 100vw;
+                height: 300vh;
+                z-index: 0;
+            }
+
+            .slowBande .overlay {
+                position: sticky;
+                position: -webkit-sticky;
+                z-index: 2;
+                display: grid;
+                top: 0px;
+            }
+
+            .slowBande .background {
+                position: sticky;
+                position: -webkit-sticky;
+                width: 100vw;
+                height: 100vh;
+                top: 0px;
+                left: 0px;
+                z-index: 1;
+            }
+
+            #slowUn {
+                top: 27.5vh;
+                left: 50%;
+                width: 45vw;
+                height: 45vh;
+            }
+
+            .asym {
+                width: 72.72vw;
+                margin-left: calc(13.64vw - 120px);
+                font-family: 'Gotu', sans-serif;
+                display: grid;
+                grid-template-columns: repeat(4, 1fr);
+                grid-column-gap: 3.2vw;
+            }
+
+            .asympath {}
+
+            .asym>div:first-child {
+                margin-top: 96px;
+            }
+
+            .asym>div:nth-child(3) {
+                margin-top: 192px;
+            }
+
+            .asym>div:nth-child(4) {
+                margin-top: 96px;
+            }
+
+            .asymtile {
+                box-sizing: border-box;
+                margin-bottom: 6.98vw;
+                height: 25.88vw;
+                width: 15.78vw;
+                border-radius: 30px;
+                border-color: #F2F2F2;
+                border-width: 10px;
+                border-style: solid;
+                background-color: #CA945B;
+                box-Shadow: 8px 8px 12px #c2c2c2, -8px -8px 12px #ffffff;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                color: #F2F2F2;
+                text-align: center;
+                justify-content: space-between;
+            }
+
+            .asymtile:not(.n) {
+                cursor: pointer;
+            }
+
+            .asymtag {
+                margin-top: 0.9vw;
+                font-size: 1.6vw;
+                text-transform: uppercase;
+                font-weight: 500;
+            }
+
+            .asymtitle {
+                margin: 0;
+                font-weight: 500;
+                font-size: 1.4vw;
+                text-transform: capitalize;
+            }
+
+            .asymsubtitle {
+                margin: 0px 0px 4.2vw;
+                font-weight: 300;
+                font-size: 1.4vw;
+                text-transform: capitalize;
+            }
+
+            .asymtile.n:hover>*:not(.nope) {
+                display: none;
+            }
+
+            .asymtile.n:hover>*.nope {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+
+            .nope {
+                width: 100%;
+                height: 100%;
+                background-color: black;
+                opacity: 0.75;
+                display: none;
+                border-radius: 20px;
+                padding: auto;
+            }
+        }
+
+        @media only screen and (orientation:portrait) {
+            h1 {
+                font-size: 30px;
+            }
+
+            .non-mobile {
+                display: none;
+            }
+
+            #photo {
+                background-image: url("Images/IMG_3733_v2_Large_Transparent_Half.png");
+                height: 84vh;
+                width: 100vw;
+                opacity: 0;
+                position: absolute;
+                left: 0px;
+                z-index: -1;
+                background-position: left;
+            }
+
+            nav {
+                top: 0px;
+                position: fixed;
+                z-index: 10000;
+                font-size: 12pt;
+                font-family: 'Gotu', sans-serif;
+                display: flex;
+                flex-direction: column;
+                opacity: 0;
+                padding: 36px 36px 31px;
+                align-items: flex-end;
+                right: 0;
+                border-bottom-left-radius: 18px;
+            }
+
+            nav a {
+                -moz-transition-duration: 0.8s;
+                -ms-transition-duration: 0.8s;
+                -o-transition-duration: 0.8s;
+                transition-duration: 0.8s;
+                margin-bottom: 15px;
+            }
+
+            .menulabel {
+                -moz-transition-duration: 0.8s;
+                -ms-transition-duration: 0.8s;
+                -o-transition-duration: 0.8s;
+                transition-duration: 0.8s;
+                margin-bottom: 5px;
+                width: 25px;
+                height: 5px;
+                border-radius: 2.5px;
+                background-color: #190E1A;
+            }
+
+            #myname {
+                position: absolute;
+                width: calc(100vw - 30px);
+                text-align: right;
+                font-family: 'Gotu', sans-serif;
+                right: 30px;
+                opacity: 0;
+            }
+
+            #myname h1 {
+                font-size: 24pt;
+                margin: 0px;
+                line-height: 24pt;
+                text-align: right;
+            }
+
+            #myname span {
+                font-size: 9pt;
+                margin: 0px;
+            }
+
+            #myname img {
+                width: 9px;
+                height: 9px;
+                margin: 0px 4px 0px 0px;
+            }
+
+            #landing {
+                width: 100vw;
+                margin-top: 0px;
+            }
+
+            .bande {
+                box-sizing: border-box;
+                width: 100vw;
+                background-color: #F2F2F2;
+                padding: 0px 36px;
+                overflow-x: hidden;
+            }
+
+            #baseline {
+                width: 100vw;
+                text-align: center;
+                font-family: 'Gotu', sans-serif;
+                font-size: 30pt;
+            }
+
+            #creator {
+                align-self: center;
+                text-align: center;
+            }
+
+            #placeholder,
+            #placeholder span {
+                text-align: center;
+            }
+
+            #sizeholder {
+                display: none;
+            }
+
+            p {
+                -webkit-hyphens: auto;
+                -moz-hyphens: auto;
+                -ms-hyphens: auto;
+                hyphens: auto;
+                overflow: hidden;
+                word-wrap: break-word;
+                font-size: 12pt;
+            }
+
+            input {
+                min-height: 30px;
+            }
+
+            #contact {
+                padding-left: 0px;
+                padding-right: 0px;
+                padding-top: 10vh;
+            }
+
+            #contact h1 {
+                width: 100vw;
+                text-align: center;
+            }
+
+            form {
+                width: 90vw;
+                margin-left: 5vw;
+                grid-template-columns: 100%;
+                grid-row-gap: 12px;
+            }
+        }
+
+        @media only screen and (orientation:landscape) {
+            .non-desktop {
+                display: none;
+            }
+
+            nav {
+                top: 3vh;
+                position: absolute;
+                font-size: 14pt;
+                font-family: 'Gotu', sans-serif;
+                display: flex;
+                flex-direction: row;
+                opacity: 1;
+                padding-right: 48px;
+                border-radius: 12px 0px 0px 12px;
+                align-items: center;
+                right: 0;
+                min-width: 50vw;
+                justify-content: space-between;
+            }
+
+            nav a {
+                border-radius: 8px;
+                padding: 2px 6px 0px;
+                border-style: solid;
+                border-width: 3px;
+                border-color: transparent;
+                margin: 8px 24px;
+                white-space: nowrap;
+                opacity: 0;
+            }
+
+            #language {
+                font-size: 14pt;
+                font-family: 'Gotu', sans-serif;
+                position: absolute;
+                top: 3vh;
+                left: 3vh;
+                padding: 13px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                opacity: 0;
+                z-index: 100;
+            }
+
+            #language {
+                clip-path: inset(0px 0px 103px 0px round 13px 13px);
+                -webkit-clip-path: inset(0px 0px 103px 0px round 13px 13px);
+            }
+
+            #language:hover {
+                clip-path: inset(0px 0px 0px 0px round 13px 13px);
+                -webkit-clip-path: inset(0px 0px 0px 0px round 13px 13px);
+            }
+
+            #language a {
+                -moz-transition-duration: 0.8s;
+                -ms-transition-duration: 0.8s;
+                -o-transition-duration: 0.8s;
+                transition-duration: 0.8s;
+                clip-path: inset(0px 100% 0px 0px);
+                -webkit-clip-path: inset(0px 100% 0px 0px);
+            }
+
+            #language:hover a {
+                -moz-transition-duration: 0.4s;
+                -ms-transition-duration: 0.4s;
+                -o-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                clip-path: inset(0px 0px 0px 0px);
+                -webkit-clip-path: inset(0px 0px 0px 0px);
+            }
+
+            #landing {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                width: 100vw;
+                height: 100vh;
+                margin-top: 0px;
+                margin-bottom: 196px;
+            }
+
+            #photo {
+                margin-top: 24px;
+                background-image: url("Images/IMG_3733_v2_Large_Transparent.png");
+                height: 100vh;
+                width: 50vw;
+                opacity: 0;
+                background-position: bottom;
+            }
+
+            nav a:hover {
+                -moz-transition-duration: 0.4s;
+                -ms-transition-duration: 0.4s;
+                -o-transition-duration: 0.4s;
+                transition-duration: 0.4s;
+                border-color: #190E1A;
+            }
+
+            #social {
+                display: flex;
+                flex-direction: column;
+                height: 100vh;
+                margin-right: 16px;
+                padding: 48px;
+                justify-content: center;
+                align-items: center;
+                opacity: 0;
+            }
+
+            #social a {
+                margin: 18px;
+                box-Shadow: 7px 7px 20px #c2c2c2, -7px -7px 20px #ffffff;
+                border-radius: 10px;
+                border-style: solid;
+                border-width: 8px;
+                border-color: #F2F2F2;
+            }
+
+            #social a img {
+                width: 32px;
+                height: 32px;
+            }
+
+            h1 {
+                cursor: default;
+                font-size: 44pt;
+                text-align: center;
+            }
+
+            #baseline {
+                opacity: 0;
+                margin-top: calc(50vh - 27px);
+                text-align: left;
+                padding-left: 16px;
+                font-family: 'Gotu', sans-serif;
+            }
+
+            .bande {
+                box-sizing: border-box;
+                width: 100vw;
+                background-color: #F2F2F2;
+                padding: 0px 120px;
+            }
+
+            #placeholder {
+                position: absolute;
+            }
+
+            #sizeholder {
+                opacity: 0
+            }
+
+            p {
+                font-size: 18pt;
+                text-align: justify;
+                margin: 48px;
+            }
+
+            #contact {
+                padding: 20px 64px;
+            }
+
+            label {
+                font-size: 16pt;
+            }
+
+            form {
+                grid-template-columns: 20vw 20vw;
+                width: 50vw;
+                margin-left: 25vw;
+                grid-column-gap: 24px;
+                grid-row-gap: 24px;
+            }
+
+            #baseline {
+                font-size: 5vw;
+                line-height: 7vw;
+                text-indent: 4px
+            }
+        }
+    </style>
+</head>
+
+<body style="">
+    <span id="language" class="non-mobile" style="opacity: 1;">
+        <span>Langue</span>
+        <a href="https://emmanuel.nuiro.me/?lang=fr">Français</a>
+        <a href="https://emmanuel.nuiro.me/?lang=en">English</a>
+        <a href="https://emmanuel.nuiro.me/?lang=ja">日本語</a>
+    </span>
+    <nav>
+        <img src="Icones/menu.png" alt="Menu Icon" class="hiddenIcon"/>
+        <a href="#" class="non-mobile" style="opacity: 1;"><strong>Emmanuel Nuiro</strong></a>
+        <a href="#" style="opacity: 1;">Développeur</a>
+        <a href="#" style="opacity: 1;">Graphiste</a>
+        <!--<a href="#">Marketer</a>-->
+        <a href="#" class="non-mobile" style="opacity: 1;">CV</a>
+    </nav>
+    <div id="landing">
+        <div id="photo" style="transform: translate(0px, -24px); opacity: 1;"></div>
+        <div id="myname" class="non-desktop" style="opacity: 1;">
+            <h1>Nuiro<br/>Emmanuel</h1>
+            <span><img src="Icones/arrow.png" alt=""/>Scroll down</span>
+        </div>
+        <h1 id="baseline" style="opacity: 1; transform: translate(0px, -24px);">
+            Je suis un<br/>
+            <div id="creator">
+                <span id="placeholder">
+                    <span id="insideCreator">créatif </span>
+                    <span id="cursor"
+                        style='font-family: "Roboto", sans-serif; font-weight: 400; background-color: transparent; opacity: 0;'>
+                        l</span>
+                </span>
+                <span id="sizeholder">développeur_l</span>
+            </div>
+        </h1>
+        <div id="social" class="non-mobile" style="opacity: 1;">
+            <a href="https://www.instagram.com/deci_gram/" target="_blank">
+                <img src="Icones/instagram.png" alt=""/>
+            </a>
+            <a href="mailto:emmanuel.nuiro.me?subject=Information%20request&amp;body=Hi%20Emmanuel,%20I%20saw%20your%20work%20on%20your%20web%20portfolio%20and%20I'd%20like%20to%20discuss%20more%20about%20it.">
+                <img src="Icones/mail.png" alt=""/>
+            </a>
+            <a href="tel:+33767039440">
+                <img src="Icones/call.png" alt="+33 767 039440"/>
+            </a>
+        </div>
+    </div>
+
+    <div class="bande non-mobile">
+        <div class="asym">
+            <div class="asympath">
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6     class="asymtag">Concept</h6>
+                    <span>
+                        <h6 class="asymtitle">Timer / Alarm</h6>
+                        <h6 class="asymsubtitle">Mobile UI</h6>
+                    </span>
+                </div>
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Job</h6>
+                    <span>
+                        <h6 class="asymtitle">Yasbeats</h6>
+                        <h6 class="asymsubtitle">Website</h6>
+                    </span>
+                </div>
+            </div>
+            <div class="asympath">
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Job</h6>
+                    <span>
+                        <h6 class="asymtitle">Igloohome France</h6>
+                        <h6 class="asymsubtitle">Marketing Intern</h6>
+                    </span>
+                </div>
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Concept</h6>
+                    <span>
+                        <h6 class="asymtitle">Timer / Alarm</h6>
+                        <h6 class="asymsubtitle">Mobile UI</h6>
+                    </span>
+                </div>
+            </div>
+            <div class="asympath">
+                <div class="asymtile" onclick="javascript:transition('00DEAD','https://rapport-de-stage.nuiro.me');"
+                    style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Concept</h6>
+                    <span>
+                        <h6 class="asymtitle">Internship Report</h6>
+                        <h6 class="asymsubtitle">Website</h6>
+                    </span>
+                </div>
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Concept</h6>
+                    <span>
+                        <h6 class="asymtitle">Chatroom</h6>
+                        <h6 class="asymsubtitle">Web Chat</h6>
+                    </span>
+                </div>
+            </div>
+            <div class="asympath">
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Concept</h6>
+                    <span>
+                        <h6 class="asymtitle">Igloohome France</h6>
+                        <h6 class="asymsubtitle">Brand Identity</h6>
+                    </span>
+                </div>
+                <div class="asymtile n" style="transform: translate(0px, 200px); opacity: 0;">
+                    <h6 class="asymtag">Concept</h6>
+                    <span>
+                        <h6 class="asymtitle">This Website</h6>
+                        <h6 class="asymsubtitle">Test portfolio</h6>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bande" id="contact">
+        <h1>Contact</h1>
+        <form method="post" action="formulaire.php" enctype="multipart/form-data">
+            <label for="name">Nom</label>
+            <input type="text" name="name" id="name">
+            <label for="mail">Adresse mail</label>
+            <input type="email" name="mail" id="mail" required="">
+            <label for="object">Objet</label>
+            <input type="text" name="object" id="object">
+            <label for="message">Message</label>
+            <textarea type="text" name="message" id="message" required=""></textarea>
+            <input type="hidden" name="page" value="https://emmanuel.nuiro.me">
+            <input type="hidden" name="ip" value="191.101.217.133">
+            <label for="file">Voulez-vous joindre un fichier ?</label>
+            <input type="file" name="file" id="file">
+            <br/>
+            <input type="submit" value="Envoyer">
+        </form>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/ScrollTrigger.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/TextPlugin.min.js"></script>
+    <script type="text/javascript">
+        $(".asymtile .n").append('<div class="nope">Case Study unavailable for now</div>');
+        //Asymtiles entrance
+        gsap.timeline({ scrollTrigger: { trigger: ".asymtile" } }).from(".asymtile", { opacity: 0, y: 200, duration: 0.7, stagger: { amount: 0.1, grid: [2, 4], from: "center", axis: "x" } });
+
+        //smooth entrance
+        gsap.timeline().to("#photo", { duration: 0.8, opacity: 1, y: -24, ease: "power1.out" })//0-0.8
+            .to("#myname", { duration: 1.0, opacity: 1, ease: "power1.in" }, "-=0.5")//0.3-1.3
+            .to("#baseline", { duration: 0.8, y: -24, opacity: 1, ease: "power1.out" }, "-=1")//0.3-1.1
+            .to("#social", { duration: 0.8, opacity: 1, ease: "power1.out" }, "-=0.7")//0.4-1.2
+            .to("nav a", { duration: 0.3, opacity: 1, ease: "power1.out", stagger: 0.3 }, "-=0.4")//0.8-1.6
+            .to("#language", { duration: 0.8, opacity: 1, ease: "power1.out" }, "-=0.8");//0.8-1.6
+
+        //cursor blink
+        gsap.timeline({ scrollTrigger: { trigger: "#cursor" } }).to('#cursor', { duration: 0.5, opacity: 0, ease: "circ.in", repeat: -1, yoyo: true, repeatDelay: 0.2 });
+
+        //Text typing effect
+        gsap.timeline({ scrollTrigger: { trigger: "#insideCreator" } })
+            .to("#insideCreator", { duration: 0.8, text: "développeur", ease: "power1.in", yoyo: true, repeat: 1, repeatDelay: 1 })
+            .to("#insideCreator", { duration: 0.8, text: "graphiste", ease: "power1.in", yoyo: true, repeat: 1, repeatDelay: 1 })
+            .to("#insideCreator", { duration: 0.8, text: "créatif ", ease: "power1.in", yoyo: true, repeat: 1, repeatDelay: 4 })
+            .repeat(-1);
+
+        //Fade transition with specific color
+        function transition(color, url) {
+            let cache = document.createElement("div");
+            $("body").append(cache);
+            ((color = "FFF") => {
+                cache.style.position = "fixed";
+                cache.style.width = "100vw";
+                cache.style.height = "100vh";
+                cache.style.top = "0px";
+                cache.style.left = "0px";
+                cache.style.opacity = "0";
+                cache.style.zIndex = "1000000";
+                cache.style.backgroundColor = '#' + color;
+            })(color);
+            cache.classList.add("transitionDiv");
+            function Open() { window.open(url, "_self"); }
+            gsap.to('.transitionDiv', { duration: 0.8, opacity: 1, ease: 'power1.out', onComplete: Open });
+
+        }
+
+
+
+        // A remanier
+        let portrait = false;
+        function format() {
+            function myFunction(x) {
+                if (x.matches) { // If media query matches
+                    portrait = true;
+                    function fixSize() {
+                        if (portrait) {
+                            let div = document.getElementById("photo");
+                            let divB = document.getElementById("myname");
+                            let divC = document.getElementById("baseline");
+                            let topB = 0;
+                            let height = 0;
+                            let topC = 0;
+                            let topA = 0;
+                            topB = window.innerHeight * 0.693;
+                            height = window.innerHeight * 0.84;
+                            topC = window.innerHeight * 1.5;
+                            topA = window.innerHeight * 0.16;
+                            function fixSizeB() {
+                                div.style.height = height + "px";
+                                div.style.top = topA + "px";
+                                divB.style.top = topB + "px";
+                                divC.style.marginTop = topC + "px";
+                            }
+                            fixSizeB();
+                        }
+                    }
+                    fixSize();
+                }
+                else {
+                    portrait = false;
+                }
+            }
+            var x = window.matchMedia("(orientation:portrait)");
+            myFunction(x);
+            x.addListener(myFunction);
+        }
+        format();
+
+        function menuMobile() {
+            if (portrait) {
+                $("nav a").forEach(label => label.addClass("menulabel"));
+            }
+        }
+        setTimeout(menuMobile, 2000);
+
+        function neomorphHoover(a = 1) {
+            var neomorphes = $(".neomorph");
+            var id = new Array(neomorphes.length);
+            for (let j = 0; j < neomorphes.length; j++) {
+                neomorphes[j].mouseover(function () {
+                    var i = 0;
+                    var v1 = 3;
+                    var h1 = 3;
+                    var b1 = 5;
+                    id[j] = setInterval(frame, 33 / a);
+                    function frame() {
+                        if (i >= 16) {
+                            clearInterval(id[j]);
+                            neomorphes[j].style.boxShadow = "8px 8px 10px #c2c2c2, -8px -8px 10px #ffffff";
+                        }
+                        else {
+                            i += 1;
+                            if (i < 8) {
+                                v1 -= 0.375;
+                                h1 -= 0.375;
+                                b1 -= 0.625;
+                                neomorphes[j].style.boxShadow = "inset " + v1 + "px " + h1 + "px " + b1 + "px #c2c2c2";
+                            }
+                            else {
+                                v1 -= 1;
+                                h1 -= 1;
+                                b1 -= 1.25;
+                                neomorphes[j].style.boxShadow = +(-1 * v1) + "px " + (-1 * h1) + "px " + (-1 * b1) + "px #c2c2c2, " + v1 + "px " + h1 + "px " + (-1 * b1) + "px #ffffff";
+                            }
+                        }
+                    }
+                });
+                neomorphes[j].mouseleave(function () {
+                    clearInterval(id[j]);
+                    neomorphes[j].style.boxShadow = "inset 3px 3px 5px #c2c2c2";
+                });
+            }
+        }
+        neomorphHoover(4);
+    </script>
+
+</body>
+
+</html>
