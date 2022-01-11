@@ -23,5 +23,14 @@
     "parser",
     "xml2js",
     "xml2json"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oriun/x-men.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Oriun/x-men/issues"
+  },
+  "homepage": "https://github.com/Oriun/x-men#readme"
 }
