@@ -1,6 +1,6 @@
 {
   "name": "@oriun/x-men",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "license": "MIT",
   "types": "index.d.ts",
@@ -9,6 +9,7 @@
     "index.d.ts",
     "modules/clean.js",
     "modules/element.js",
+    "modules/html.js",
     "modules/xml.js",
     "Readme.md",
     "LICENSE"
