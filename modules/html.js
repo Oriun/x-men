@@ -1,5 +1,5 @@
 const { prepare, hydrateStrings } = require('./clean')
-const createElement = require('./element')
+const {createHTMLElement} = require('./element')
 const XMEN_XML = require('./xml')
 
 function removeScripts(data) {
@@ -30,6 +30,15 @@ function removeStyle(data) {
 
 // }
 
+const htmlOrphanTags = [
+    "meta", "br", "hr", "progress", "input", "iframe", "frame", "noframes", "img", "area", "canvas", "source", "track", "link", "base", "basefont"
+]
+
+function runTree(root, extract = () => false) {
+    if (extract(root)) return;
+    if (root.$children?.length) root.$children.forEach(node => { runTree(node, extract) })
+}
+
 module.exports = class XMEN_HTML extends XMEN_XML {
 
     styles = []
@@ -46,7 +55,7 @@ module.exports = class XMEN_HTML extends XMEN_XML {
         }
         const { styles, text: tmp } = removeStyle({ text: data })
         const { scripts, text } = removeScripts({ text: tmp })
-        super(text)
+        super(text, htmlOrphanTags, createHTMLElement)
         this.styles = styles
         this.scripts = scripts
     }
@@ -59,5 +68,15 @@ module.exports = class XMEN_HTML extends XMEN_XML {
     }
     querySelectorAll(selector) {
         return querySelectorLimit(selector, Infinity)
+    }
+
+    getElementsByClassName(classes, max = Infinity) {
+        const classList = classes.split(' ')
+        const matches = []
+        runTree(this.root, node => {
+            if (matches.length >= max) return true
+            if (node.$attributes.class?.length && classList.every(cl => node.$attributes.class.includes(cl))) matches.push(node)
+        })
+        return matches
     }
 }

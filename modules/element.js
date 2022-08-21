@@ -46,9 +46,22 @@ class XMENElement {
 
 Object.defineProperty(String.prototype, '$attributes', {
     get: function () {
-       return this.$attributes
+        return this.$attributes
     }
-}); 
+});
+
+class HTMLElement extends XMENElement {
+    get $classList (){ return this.$addAttribute.class?.split(' ').filter(Boolean) || [] }
+    get $innerHTML() { return this.$innerXML }
+    get $outerHTML() { return this.$outerXML }
+    get $textContent() {
+        if (this.$tagName === '#text') {
+            return this.$innerXML
+        } else {
+            return this.$children.map(child => child.$textContent).join('')
+        }
+    }
+}
 
 const ProxyHandler = {
     get: function (obj, prop) {
@@ -59,7 +72,7 @@ const ProxyHandler = {
         if (children.length) {
             return children.length === 1 ? children[0] : children
         }
-        if(prop in obj.$attributes){
+        if (prop in obj.$attributes) {
             return obj.$attributes[prop]
         }
 
@@ -74,7 +87,13 @@ const ProxyHandler = {
     }
 }
 
-module.exports = function createElement(text, textNode) {
-    const element = new XMENElement(text, textNode)
-    return new Proxy(element, ProxyHandler)
+module.exports = {
+    createXMLElement: function (text, textNode) {
+        const element = new XMENElement(text, textNode)
+        return new Proxy(element, ProxyHandler)
+    },
+    createHTMLElement: function (text, textNode) {
+        const element = new HTMLElement(text, textNode)
+        return new Proxy(element, ProxyHandler)
+    }
 }
